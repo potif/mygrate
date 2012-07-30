@@ -1,3 +1,8 @@
+# potif/mygrate
+
+This fork uses the node-postgres JS client for issuing Postgres migration
+queries instead of spawning a psql process.
+
 # mygrate
 
 Database migrations for MySQL and PostgreSQL database.
